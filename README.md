@@ -4,7 +4,7 @@
 **Author**: Kiruthikaa NS
 **Repo Name**: datafun-06-eda  
 **Date**: June 2025  
-**GitHub Repo**: [View this project on GitHub](https://github.com/your-Kiruthikaa2512/datafun-06-eda)
+**GitHub Repo**: [View this project on GitHub](https://github.com/Kiruthikaa2512/datafun-06-eda)
 
 ## Project Introduction
 
