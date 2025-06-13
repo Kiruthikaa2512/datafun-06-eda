@@ -45,8 +45,9 @@ source .venv/bin/activate  (Mac/Linux)
 .venv\Scripts\activate  (Windows)  
 ```
 # Install dependencies  
-```pip install pandas seaborn matplotlib jupyterlab pyarrow
-```
+
+pip install pandas seaborn matplotlib jupyterlab pyarrow
+
 ## **Notebook Summary**  
 
 The notebook (`datafun-06-eda.ipynb`) follows a structured, step-by-step process with Markdown headings and Python code cells.  
