@@ -40,13 +40,13 @@ code .
 
 
 ### **Python Virtual Environment & Dependencies**  
-python -m venv .venv  
+```python -m venv .venv  
 source .venv/bin/activate  (Mac/Linux)  
 .venv\Scripts\activate  (Windows)  
-
+```
 # Install dependencies  
-pip install pandas seaborn matplotlib jupyterlab pyarrow  
-
+```pip install pandas seaborn matplotlib jupyterlab pyarrow  
+```
 
 ## **Notebook Summary**  
 
